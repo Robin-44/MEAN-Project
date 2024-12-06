@@ -4,7 +4,7 @@
   "authorizationParams": {
     "audience": "https://the_guardian"
   },
-  "apiUri": "http://localhost:3001",
+  "apiUri": "https://theguardian-4586b0da3368.herokuapp.com/",
   "appUri": "http://localhost:4200",
   "errorPath": "/error"
 }
